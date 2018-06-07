@@ -16,8 +16,8 @@ se ela estiver em minúscula irá usar a variável inicial = 97 na fórmula;
 14. Criei um botão para decifrar chamando a função decifer.
 15. Chamo a função decifer.
 
-![Fluxograma - Cifra de César- Cifer](Fluxograma - Cifra de César - Page 1.jpeg)
-![Fluxograma - Cifra de César - Decifer](Fluxograma - Cifra de César Decifrar - Page 1.jpeg)
+![Fluxograma - Cifra de César- Cifer](Fluxograma-CifradeCesar.jpeg)
+![Fluxograma - Cifra de César - Decifer](Fluxograma-CifradeCesarDecifrar.jpeg)
 
 
 
