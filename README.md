@@ -13,10 +13,11 @@ se ela estiver em minúscula irá usar a variável inicial = 97 na fórmula;
 11. Fiz um for com posição i inicial = a 0,  para que enquanto ela seja menor que o tamanho da mensagem ela adicione mais 1 para pegar as posições da mensagem.
 12. Dentro do for criei um if que verifica  se a mensagem está dentro do intervalo de acordo com a tabela AIISC com letras maiúsculas ou minúsculas, se ela estiver a mensagem passa pela fórmula para ser cifrada. Se não estiver mostra um alert avisando ao usuário.
 13. Ao final do for escreve/mostra na tela a mensagem cifrada. 
-14. Chamo a função decifer.
+14. Criei um botão para decifrar chamando a função decifer.
+15. Chamo a função decifer.
 
-![Fluxograma - Cifra de César- Cifer](./Fluxograma - Cifra de César - Page 1.jpeg)
-![Fluxograma - Cifra de César - Decifer](./Fluxograma - Cifra de César Decifrar - Page 1.jpeg)
+![Fluxograma - Cifra de César- Cifer](Fluxograma - Cifra de César - Page 1.jpeg)
+![Fluxograma - Cifra de César - Decifer](Fluxograma - Cifra de César Decifrar - Page 1.jpeg)
 
 
 
