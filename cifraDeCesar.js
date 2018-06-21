@@ -48,7 +48,7 @@ function decifer() {
 
   for (var i = 0; i < mesage.length; i++) {
     if ((mesage[i].charCodeAt() >= 65 && mesage[i].charCodeAt() <= 90) || (mesage[i].charCodeAt() >= 97 && mesage[i].charCodeAt() <= 122)) {
-      deciferMesage += String.fromCharCode((mesage[i].charCodeAt() - initialASCII - 7) % 26 + initialASCII);
+      deciferMesage += String.fromCharCode((mesage[i].charCodeAt() - initialASCII + 19) % 26 + initialASCII);
 
 
     } else {
